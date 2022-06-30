@@ -1,0 +1,10 @@
+.worksheetInputsDiv {
+    width: 26%;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.worksheetInputs {
+    width: 15%;
+}
