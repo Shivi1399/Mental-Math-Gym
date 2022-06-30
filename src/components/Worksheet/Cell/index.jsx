@@ -14,8 +14,7 @@ const Cell = props => {
                 <Form.Item
                     name={key}
                 >
-                    <Input 
-                        />{value}
+                    <Input />
                 </Form.Item>
             }
         </div>

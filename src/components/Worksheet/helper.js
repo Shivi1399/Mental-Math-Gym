@@ -1,5 +1,4 @@
 export const baseWork = (Worsheet, operation) => {
-    console.log('Worsheet', Worsheet)
     var x = []
     var y = []
     var i = 0
@@ -56,8 +55,6 @@ export const baseWork = (Worsheet, operation) => {
             }
         }
     }
-    console.log('worksheetBase', worksheetBase)
-
     return worksheetBase
 }
 

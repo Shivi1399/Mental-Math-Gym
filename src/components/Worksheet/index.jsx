@@ -10,7 +10,6 @@ const Worksheet = props => {
     const worksheetBase = baseWork(Worsheet, operation)
 
     const onSubmit = values => {
-        console.log('values', values)
         checkAnswers(values, worksheetBase)
     }
 
